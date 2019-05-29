@@ -1,0 +1,41 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/test/test_main.cpp",
+			"labels" : 
+			[
+				"batcher-sort",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/test/test_sort.cpp",
+			"labels" : 
+			[
+				"batcher-sort",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/test/test_sort_app.cpp",
+			"labels" : 
+			[
+				"batcher-sort",
+				"Test"
+			]
+		},
+		{
+			"file" : "C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/test/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"batcher-sort",
+			"Test"
+		],
+		"name" : "test_batcher-sort"
+	}
+}

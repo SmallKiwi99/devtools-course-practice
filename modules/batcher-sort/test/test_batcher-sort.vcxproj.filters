@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\м\Desktop\Новая папка\devtools-course-practice\modules\batcher-sort\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\м\Desktop\Новая папка\devtools-course-practice\modules\batcher-sort\test\test_sort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\м\Desktop\Новая папка\devtools-course-practice\modules\batcher-sort\test\test_sort_app.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\м\Desktop\Новая папка\devtools-course-practice\modules\batcher-sort\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DECD917D-D42D-3F93-864A-F9C66ACA23A0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

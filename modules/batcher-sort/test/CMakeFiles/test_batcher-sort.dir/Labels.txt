@@ -1,0 +1,14 @@
+# Target labels
+ batcher-sort
+ Test
+# Source files and their labels
+C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/test/test_main.cpp
+ batcher-sort
+ Test
+C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/test/test_sort.cpp
+ batcher-sort
+ Test
+C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/test/test_sort_app.cpp
+ batcher-sort
+ Test
+C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/test/CMakeLists.txt

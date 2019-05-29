@@ -1,0 +1,17 @@
+# Target labels
+ batcher-sort
+ Library
+# Source files and their labels
+C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/src/BatcherSort.cpp
+ batcher-sort
+ Library
+C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/src/BatcherSort_app.cpp
+ batcher-sort
+ Library
+C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/include/BatcherSort.h
+ batcher-sort
+ Library
+C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/include/BatcherSort_app.h
+ batcher-sort
+ Library
+C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/src/CMakeLists.txt

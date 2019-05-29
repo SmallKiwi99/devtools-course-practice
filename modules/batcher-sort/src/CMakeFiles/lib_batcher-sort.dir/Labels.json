@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/src/BatcherSort.cpp",
+			"labels" : 
+			[
+				"batcher-sort",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/src/BatcherSort_app.cpp",
+			"labels" : 
+			[
+				"batcher-sort",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/include/BatcherSort.h",
+			"labels" : 
+			[
+				"batcher-sort",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/include/BatcherSort_app.h",
+			"labels" : 
+			[
+				"batcher-sort",
+				"Library"
+			]
+		},
+		{
+			"file" : "C:/Users/м/Desktop/Новая папка/devtools-course-practice/modules/batcher-sort/src/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"batcher-sort",
+			"Library"
+		],
+		"name" : "lib_batcher-sort"
+	}
+}

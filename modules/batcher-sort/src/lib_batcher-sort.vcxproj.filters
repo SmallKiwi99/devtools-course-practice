@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\м\Desktop\Новая папка\devtools-course-practice\modules\batcher-sort\src\BatcherSort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\м\Desktop\Новая папка\devtools-course-practice\modules\batcher-sort\src\BatcherSort_app.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\м\Desktop\Новая папка\devtools-course-practice\modules\batcher-sort\include\BatcherSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\м\Desktop\Новая папка\devtools-course-practice\modules\batcher-sort\include\BatcherSort_app.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\м\Desktop\Новая папка\devtools-course-practice\modules\batcher-sort\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DECD917D-D42D-3F93-864A-F9C66ACA23A0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9C662ADF-FD63-3268-96E2-0740FA4A7837}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
