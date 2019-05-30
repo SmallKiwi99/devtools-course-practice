@@ -7,13 +7,13 @@
 #include "include/BatcherSort.h"
 
 class BatcherSortApp {
-private:
-	std::string message_;
-	void Info(const char* appname, const char* message = "");
-	bool CheckArguments(int argc, const char** argv);
+ private:
+    std::string message_;
+    void Info(const char* appname, const char* message = "");
+    bool CheckArguments(int argc, const char** argv);
 
-public:
-	std::string operator()(int argc, const char** argv);
+ public:
+    std::string operator()(int argc, const char** argv);
 };
 
 #endif  // MODULES_BATCHER_SORT_INCLUDE_BATCHERSORT_APP_H
